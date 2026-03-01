@@ -1,0 +1,5 @@
+openai>=1.30
+anthropic>=0.28
+google-genai>=0.8
+python-dotenv>=1.0
+datasets>=2.19
